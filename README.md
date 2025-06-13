@@ -1,9 +1,30 @@
 <h1>Hi, I'm Irving! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Deskside Support Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Systems Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network Operator Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Field Service Technician</a></h1>
 
-<h2>👨‍💻 Junior Cyber Security Specialist </h2>
+<h2>👨‍💻 Cybersecurity Projects </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Installation of Windows on VirtualBox](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Initial Windows VM Setup](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [How to Install Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
