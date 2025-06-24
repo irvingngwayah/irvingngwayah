@@ -6,6 +6,7 @@
   - [Initial Windows VM Setup](https://github.com/joshmadakor1/Algorithms-Practice)
   - [How to Install Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Configuring Nessus for Scanning](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SSL Certificate Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
